@@ -7,7 +7,7 @@ I'm passionate about building high-impact, large-scale products that blend intui
 
 Outside of work, I'm deeply curious about science and emerging technologies. I also create digital designs and write tech-related blogs. 
 
-Currently, I'm expanding my skills by learning Python with a focus on cybersecurity.
+Currently, I'm expanding my skills by learning Python with a focus on cybersecurity and learning Scala and Rust.
 
 Let's connect!
 [Medium](https://prajeetapal.medium.com/).
