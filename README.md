@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 
+I'm Prajeeta, a software engineer and analyst in Mumbai.
 
-<!--
-**prajeeta15/prajeeta15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work as a software engineer at @BluestockFintech. Previously, I was at @BPCL and @Wipro.
 
-Here are some ideas to get you started:
+I'm passionate about building high-impact, large-scale products that blend intuitive design with powerful technology. I've contributed to high-traffic platforms and dashboards, led feature development, and streamlined systems in customer-facing applications. My work spans both frontend and backend roles, with experience in industry-relevant projects and research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I'm deeply curious about science and emerging technologies. I also create digital designs and write tech-related blogs. 
+
+Currently, I'm expanding my skills by learning Python with a focus on cybersecurity.
+
+Let's connect!
+[Medium](https://prajeetapal.medium.com/).
+[LinkedIn](https://www.linkedin.com/in/prajeeta-pal-802a63230/).
+
