@@ -1,6 +1,5 @@
 ## hi there 👋
-a software engineer and aspiring quant dev in Mumbai.
-working at @Accenture.
+i am a dev trainee at @Accenture. mostly working on quant projects or aiml as a full time idiot. 
 currently learning backtesting models, algo trading and building quant projects. 
 previously, worked at @BluestockFintech @BPCL and @Wipro.
 
